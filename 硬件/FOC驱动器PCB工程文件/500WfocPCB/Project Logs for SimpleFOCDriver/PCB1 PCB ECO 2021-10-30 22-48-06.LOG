@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCLK Pin=ESP32模块-10
+Removed Pin From Net: NetName=MISO Pin=ESP32模块-11
+Removed Pin From Net: NetName=MOSI Pin=ESP32模块-12
+Removed Pin From Net: NetName=SS1 Pin=ESP32模块-24
+Removed Pin From Net: NetName=SS2 Pin=ESP32模块-25
+Removed Pin From Net: NetName=A3 Pin=ESP32模块-26
+Added Pin To Net: NetName=SS1 Pin=ESP32模块-10
+Added Pin To Net: NetName=SCLK Pin=ESP32模块-11
+Added Pin To Net: NetName=MISO Pin=ESP32模块-12
+Added Pin To Net: NetName=SS2 Pin=ESP32模块-24
+Added Pin To Net: NetName=A3 Pin=ESP32模块-25
+Added Pin To Net: NetName=MOSI Pin=ESP32模块-26

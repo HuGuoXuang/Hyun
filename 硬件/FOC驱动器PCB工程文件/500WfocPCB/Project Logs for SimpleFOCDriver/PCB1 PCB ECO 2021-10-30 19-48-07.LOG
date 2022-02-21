@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=R14-1
+Removed Member From Class: ClassName=SimpleFOCDriver Member=R14
+Added Pin To Net: NetName=VCC Pin=78M05-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1

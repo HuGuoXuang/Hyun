@@ -1,0 +1,15 @@
+Added Component: Designator=CAP?(EEH-ZA1E101XP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EEH-ZA1E101XP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=L6234-1
+Added Pin To Net: NetName=GND Pin=L6234-2
+Added Pin To Net: NetName=GND Pin=L6234-10
+Added Pin To Net: NetName=GND Pin=L6234-11
+Added Pin To Net: NetName=GND Pin=L6234-19
+Added Pin To Net: NetName=GND Pin=L6234-20
+Added Pin To Net: NetName=GND Pin=L6234-21
+Added Pin To Net: NetName=GND Pin=L6234-22
+Added Pin To Net: NetName=GND Pin=L6234-23
+Added Net: Name=GND
+Added Member To Class: ClassName=ArduinoFOC Member=Component CAP? EEH-ZA1E101XP

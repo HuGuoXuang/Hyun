@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"1715035";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"Phoenix Contact";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"8020529";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"PCB terminal block, 5mm pitch, 3 way";"";
+"TraceParts.InstanceId";"10-25072014-1003806EEM4YPXWEOQDU83FW27W7S01";"";
+"TraceParts.PartTitle";"PCB terminal block, 5mm pitch, 3 way";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"22/07/2014 15:51";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-25072014-100380";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSB_346947/PSSS_435563/PSS_435683/PSF_435707/10-25072014-100380";"";

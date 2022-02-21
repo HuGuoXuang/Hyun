@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP 3.5*8*11.5-H New Footprint=CM D(6.3*7.7)
+Change Component Designator: OldDesignator=M1out1 NewDesignator=BTN1
+Change Component Designator: OldDesignator=M1out2 NewDesignator=BTN2
+Change Component Designator: OldDesignator=M1out3 NewDesignator=BTN3
+Change Component Designator: OldDesignator=M2out1 NewDesignator=BTN4
+Change Component Designator: OldDesignator=M2out2 NewDesignator=BTN5
+Change Component Designator: OldDesignator=M2out3 NewDesignator=BTN6
+Change Component Designator: OldDesignator=MOT1 NewDesignator=TB_MOT1
+Change Component Designator: OldDesignator=MOT2 NewDesignator=TB_MOT2
+Added Member To Class: ClassName=SimpleFOCDriver Member=Component C2 100uF

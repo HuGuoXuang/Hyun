@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SS2 Pin=ESP32模块-24
+Removed Pin From Net: NetName=A2 Pin=ESP32模块-25
+Added Pin To Net: NetName=A2 Pin=ESP32模块-24
+Added Pin To Net: NetName=SS2 Pin=ESP32模块-25

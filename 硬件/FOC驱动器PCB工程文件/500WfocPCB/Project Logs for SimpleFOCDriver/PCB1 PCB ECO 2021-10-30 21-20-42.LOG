@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VCC Pin=P1-4
+Removed Pin From Net: NetName=VCC Pin=P1-5
+Removed Pin From Net: NetName=VCC Pin=P1-6
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=+5 Pin=P2-2
+Removed Pin From Net: NetName=+5 Pin=P2-3
+Removed Pin From Net: NetName=+3.3 Pin=P2-4
+Removed Pin From Net: NetName=+3.3 Pin=P2-5
+Removed Pin From Net: NetName=+3.3 Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-3
+Change Component Designator: OldDesignator=A NewDesignator=BTN1
+Change Component Designator: OldDesignator=A NewDesignator=BTN4
+Change Component Designator: OldDesignator=B NewDesignator=BTN2
+Change Component Designator: OldDesignator=B NewDesignator=BTN5
+Change Component Designator: OldDesignator=C NewDesignator=BTN3
+Change Component Designator: OldDesignator=C NewDesignator=BTN6
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=+3.3 Pin=P3-1
+Added Pin To Net: NetName=+3.3 Pin=P3-2
+Added Pin To Net: NetName=+3.3 Pin=P3-3
+Added Pin To Net: NetName=+5 Pin=P4-1
+Added Pin To Net: NetName=+5 Pin=P4-2
+Added Pin To Net: NetName=+5 Pin=P4-3
+Added Member To Class: ClassName=SimpleFOCDriver Member=Component BTN1 BTN8982
+Added Member To Class: ClassName=SimpleFOCDriver Member=Component BTN5 BTN8982
+Added Member To Class: ClassName=SimpleFOCDriver Member=Component BTN6 BTN8982
+Added Member To Class: ClassName=SimpleFOCDriver Member=Component P1 Header 6
