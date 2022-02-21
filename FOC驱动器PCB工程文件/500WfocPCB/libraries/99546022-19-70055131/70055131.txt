@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"1935776";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"PHOENIX CONTACT";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70055131";"";
+"TraceParts.PartNumber";"10-12012018-102719";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"2 WAY SCREW TERMINAL BLOCK 5MM PITCH";"";
+"TraceParts.InstanceId";"10-12012018-10271928PUCMMT2ZG3L06X2N8N26U6Z";"";
+"TraceParts.PartTitle";"2 WAY SCREW TERMINAL BLOCK 5MM PITCH";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ALLIED_ELECTRONICS:/ALLIED_ELECTRONICS/PSSS_435563/PSS_435778/PSF_435792/10-12012018-102719";"";

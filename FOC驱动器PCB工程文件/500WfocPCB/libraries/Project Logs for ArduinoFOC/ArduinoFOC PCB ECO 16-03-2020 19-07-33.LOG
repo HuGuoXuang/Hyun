@@ -1,0 +1,5 @@
+Added Component: Designator=TB?(TB002-500-03BE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-TB002-500-03BE"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ArduinoFOC Member=Component TB? TB002-500-03BE
