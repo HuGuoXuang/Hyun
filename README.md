@@ -9,3 +9,11 @@
 
 ![cmd-markdown-logo](https://github.com/HuGuoXuang/Hyun/blob/main/%E5%9B%BE%E7%89%87/5.png)
 
+### 2. FOC驱动器PCB
+
+![cmd-markdown-logo](https://github.com/HuGuoXuang/Hyun/blob/main/%E5%9B%BE%E7%89%87/4.png)
+
+### 3. 磁编码器PCB
+
+![cmd-markdown-logo](https://github.com/HuGuoXuang/Hyun/blob/main/%E5%9B%BE%E7%89%87/2.png)
+
