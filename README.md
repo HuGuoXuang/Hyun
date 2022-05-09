@@ -9,6 +9,12 @@
 
 # 轮腿机器人——Hyun
 
+## 装配教程
+<a href="https://www.bilibili.com/video/BV1Xt4y1s7Ci?spm_id_from=333.999.0.0">
+<img src="图片/9.jpg">
+</a>
+
+
 ## 演示视频
 <a href="https://www.bilibili.com/video/BV1Ub4y1s737?spm_id_from=333.999.0.0">
 <img src="图片/9.jpg">
