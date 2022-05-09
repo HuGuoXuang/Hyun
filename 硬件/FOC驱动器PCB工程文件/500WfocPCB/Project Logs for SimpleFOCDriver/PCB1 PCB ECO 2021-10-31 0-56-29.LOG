@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=RX2 Pin=ESP32模块-17
-Removed Pin From Net: NetName=TX2 Pin=ESP32模块-18
-Added Pin To Net: NetName=TX2 Pin=ESP32模块-17
-Added Pin To Net: NetName=RX2 Pin=ESP32模块-18

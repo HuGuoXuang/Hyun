@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=A2 Pin=ESP32模块-23
-Removed Pin From Net: NetName=M2in1 Pin=ESP32模块-25
-Added Pin To Net: NetName=M2in1 Pin=ESP32模块-23
-Added Pin To Net: NetName=A2 Pin=ESP32模块-25

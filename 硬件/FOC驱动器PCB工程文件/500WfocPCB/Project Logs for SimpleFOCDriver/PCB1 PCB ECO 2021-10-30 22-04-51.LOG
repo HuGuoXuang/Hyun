@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=RX1 Pin=ESP32模块-15
-Removed Pin From Net: NetName=TX1 Pin=ESP32模块-16
-Added Pin To Net: NetName=TX1 Pin=ESP32模块-15
-Added Pin To Net: NetName=RX1 Pin=ESP32模块-16
-Added Member To Class: ClassName=SimpleFOCDriver Member=Component BTN3 BTN8982
-Added Member To Class: ClassName=SimpleFOCDriver Member=Component BTN4 BTN8982
