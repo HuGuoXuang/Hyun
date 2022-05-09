@@ -11,7 +11,7 @@
 
 ## 装配教程
 <a href="https://www.bilibili.com/video/BV1Xt4y1s7Ci?spm_id_from=333.999.0.0">
-<img src="图片/9.jpg">
+<img src="图片/12.jpg">
 </a>
 
 
