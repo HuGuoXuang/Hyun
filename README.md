@@ -10,6 +10,11 @@
 
 
 
+## 演示视频
+<a href="https://www.bilibili.com/video/BV1Ub4y1s737?spm_id_from=333.999.0.0">
+<img src="图片/9.jpg">
+</a>
+
 
 
 ## 装配教程
@@ -18,10 +23,12 @@
 </a>
 
 
-## 演示视频
-<a href="https://www.bilibili.com/video/BV1Ub4y1s737?spm_id_from=333.999.0.0">
-<img src="图片/9.jpg">
+## 搭建开发环境教程
+<a href="https://www.bilibili.com/video/BV1z34y1h7pm?spm_id_from=333.999.0.0">
+<img src="图片/13.jpg">
 </a>
+
+
 
 ### 1. 主板PCB
 
